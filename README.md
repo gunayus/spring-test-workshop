@@ -1,3 +1,5 @@
+Istanbul Spring Meetup - Spring Cloud Workshop Series #2 - demo project
+
 Build the project
 mvn clean install
 

@@ -32,6 +32,8 @@ Open the url http://localhost:8050 from your favourite browser
 ## 4 - References
 
 https://www.youtube.com/watch?v=MDydAqL4mYE
+
 https://github.com/spring-cloud/spring-cloud-contract
+
 https://projects.spring.io/spring-restdocs/
 
